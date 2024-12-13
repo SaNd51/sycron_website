@@ -9,7 +9,7 @@
                     <div class="titulo" id="teste0">
                         <h4 class="titulo-card" >limpeza</h4>
                         <ul class="lista">
-                            <li class="lista-item">eletronicos</li>
+                            <li class="lista-item">eletrônicos</li>
                             <li class="lista-item">computadores</li>
                             <li class="lista-item">impressoras</li>
                         </ul>
@@ -40,7 +40,7 @@
                 <div class="scroll card">
                     <div class="img-box"></div>
                     <div class="titulo" id="teste0">
-                        <h4 class="titulo-card" id="categore">avlição técnica</h4>
+                        <h4 class="titulo-card" id="categore">avaliação técnica</h4>
                         <ul class="lista">
                             <li class="lista-item">impressoras</li>
                             <li class="lista-item">celulares</li>
@@ -53,7 +53,7 @@
                     <div class="titulo" id="teste0">
                         <h4 class="titulo-card" id="categore">instalação</h4>
                         <ul class="lista">
-                            <li class="lista-item">eletronicos</li>
+                            <li class="lista-item">eletrônicos</li>
                             <li class="lista-item">computadores</li>
                             <li class="lista-item">impressoras</li>
                             <li class="lista-item">câmeras</li>
